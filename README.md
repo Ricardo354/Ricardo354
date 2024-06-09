@@ -1,8 +1,7 @@
 # Hi, I'm Ricardo 👋
 
-I'm a 16-year-old student currently studying at IFCE - Campus Crato. I'm passionate about programming and technology, Here's a bit more about me:
+Currently studying at IFCE - Campus Crato. Passionate about programming and technology, Here's a bit more about me:
 
-- 📚 Currently learning PHP and exploring its vast possibilities.
 - 💻 Proficient in Python.
 - 🌱 Always eager to learn and grow in the world of technology.
 - 🌍 Fluent in English as my second language.
