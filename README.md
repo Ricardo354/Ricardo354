@@ -14,24 +14,6 @@ Atualmente, estou me aprofundando na área de desenvolvimento Fullstack, partici
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<!-- FRONTEND -->
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<!-- BACKEND -->
 <img 
     align="left" 
     alt="Node.js" 
