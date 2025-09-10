@@ -4,7 +4,7 @@
 
 Olá! Me chamo Ricardo Teixeira e sou natural do Ceará. Concluí o ensino médio integrado ao curso técnico de Informática para Internet pelo IFCE, onde tive meu primeiro contato prático com o desenvolvimento de software. 
 
-Atualmente, estou me aprofundando na área de desenvolvimento Fullstack, participando de bootcamps e desenvolvendo projetos pessoais que me desafiam a aprender novas tecnologias e boas práticas. Sou apaixonado por tecnologia e pelo impacto positivo que a programação pode causar no mundo — seja resolvendo problemas, automatizando tarefas ou criando soluções criativas.
+Atualmente, estou cursando **Sistemas de Informação** na **UNINASSAU**, me aprofundando em **FullStack**, desenvolvendo projetos pessoais que me desafiam a aprender novas tecnologias e boas práticas. Sou apaixonado por tecnologia e pelo impacto positivo que a programação pode causar no mundo — seja resolvendo problemas, automatizando tarefas ou criando soluções criativas.
 
 ## 📫 Contato
 
