@@ -1,11 +1,5 @@
 # 🧑🏽‍💻 Ricardo Teixeira
 
-**`Desenvolvedor FullStack`**
-
-Olá! Me chamo Ricardo Teixeira e sou natural do Ceará. Concluí o ensino médio integrado ao curso técnico de Informática para Internet pelo IFCE, onde tive meu primeiro contato prático com o desenvolvimento de software. 
-
-Atualmente, estou cursando **Sistemas de Informação** na **UNINASSAU**, me aprofundando em **FullStack**, desenvolvendo projetos pessoais que me desafiam a aprender novas tecnologias e boas práticas. Sou apaixonado por tecnologia e pelo impacto positivo que a programação pode causar no mundo — seja resolvendo problemas, automatizando tarefas ou criando soluções criativas.
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoteixeiram/)
